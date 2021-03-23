@@ -1,9 +1,7 @@
-git clone https://github.com/Darkziinh/darkbot3.0
+git clone https://github.com/jeffkkkj/Jeffx-bot
 
-cd darkbot3.0
+cd Jeffx-bot
 
 chmod +x badut.sh
 
 sh badut.sh
-
-senha: darkzin
